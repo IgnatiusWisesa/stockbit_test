@@ -1,0 +1,17 @@
+{
+  "name": "stockbit_test_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ignatius Wisesa",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.2.4",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5",
+    "supertest": "^6.1.6"
+  }
+}
